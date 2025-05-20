@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - REST APIs and database design
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/estherpolie](https://linkedin.com/in/estherpolie)
+- LinkedIn: [https://www.linkedin.com/in/poli-esther/]
 
 ## ⚡ Fun fact
 I enjoy going to the gym and watching movies in my free time.
